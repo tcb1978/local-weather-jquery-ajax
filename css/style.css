@@ -1,0 +1,11 @@
+div.shell {
+	width: 100%;
+	height: auto;
+	background-size: cover;
+	color:#fdfff8;
+}
+
+div.vista .temp {
+  margin: 0 auto;
+  display: block;
+}
